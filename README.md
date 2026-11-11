@@ -151,7 +151,7 @@ only through the hub.
 | Seat | What it holds |
 |---|---|
 | **[The Dinh](https://github.com/indicaindependent/the-dinh)** | The seat beneath the Master, blessed to decide in his place. Quantitative analysis. |
-| **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** | Twenty-four chambers for machines. Exactly one mounted at a time. |
+| **[The Gunslinger](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)** | The Multi-Agent Orchestrator. Twenty-four chambers for machines. Exactly one mounted at a time. |
 | **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
 | **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production seat. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
 | **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
