@@ -154,7 +154,7 @@ only through the hub.
 | **[The Gunslinger](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)** | The Multi-Agent Orchestrator. Twenty-four chambers for machines. Exactly one mounted at a time. |
 | **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
 | **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production Multi-Agent Orchestrator. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
-| **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
+| **[The Cartographer](https://github.com/indicaindependent/the-cartographer)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
 
 **The Master** is the human at the top and holds no repository. The wheel topology, every seat and the
 shared creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
